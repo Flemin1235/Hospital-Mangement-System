@@ -1,3 +1,4 @@
+#Made by Flemin P Daniel
 from mysql.connector import *
 con=connect(host="localhost",user="root",passwd="flemin12032005",database="HMS")
 cur=con.cursor()
